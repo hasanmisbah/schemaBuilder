@@ -1,0 +1,19 @@
+{
+    "name": "hasanmisbah/schema-builder",
+    "description": "\"mySql schema builder without dependency\"",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hasanmisbah\\SchemaBuilder\\": "src/",
+            "Database\\": "demo/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hasan Misbah",
+            "email": "hasanmisbah01@gmail.com"
+        }
+    ],
+    "require": {}
+}
